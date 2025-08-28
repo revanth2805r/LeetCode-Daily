@@ -14,7 +14,7 @@ public:
             }
         }
 
-        for(int i = 1; i < n; i++) {
+        for(int i = 0; i < n; i++) {
             vector<int> temp;
             for(int j = 0; j < n - i; j++) {
                 temp.push_back(grid[i + j][j]);
@@ -24,14 +24,14 @@ public:
                 grid[i + j][j] = temp[j];
             }
         }
-        vector<int> d;
-        for(int i = 0; i < n; i++) {
-            d.push_back(grid[i][i]);
-        }
-        sort(d.begin(), d.end(), greater<int>());
-        for(int i = 0; i < n; i++) {
-            grid[i][i] = d[i];
-        }
+        // vector<int> d;
+        // for(int i = 0; i < n; i++) {
+        //     d.push_back(grid[i][i]);
+        // }
+        // sort(d.begin(), d.end(), greater<int>());
+        // for(int i = 0; i < n; i++) {
+        //     grid[i][i] = d[i];
+        // }
 
         return grid;
     }
