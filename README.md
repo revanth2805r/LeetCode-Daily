@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
