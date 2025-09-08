@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
@@ -18,9 +19,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
