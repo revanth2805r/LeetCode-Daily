@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
