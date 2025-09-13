@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
