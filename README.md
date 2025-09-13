@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0136-single-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
