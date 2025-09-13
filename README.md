@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
