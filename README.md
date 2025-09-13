@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/revanth2805r/LeetCode-Daily/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
