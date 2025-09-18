@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/revanth2805r/LeetCode-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/revanth2805r/LeetCode-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
